@@ -1,4 +1,4 @@
-# Caption Ceanup
+# Caption Cleanup
 
 Quick and dirty scripts to assist with caption and subtitle cleanup work after the subtitles or captions have been extracted and converted to .srt text files.
 
