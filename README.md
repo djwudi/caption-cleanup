@@ -13,7 +13,7 @@ In order:
 * removes multiple spaces used to force text placement location (so lines don't look `          like this  `)
 * fixes spaces inside italic tags and parentheses (to correct for `<i> this </i>` or `( this )`)
 * educates quotes (from "straight quotes" to “curly quotes”)
-* fixes leading apostrophes for abbreviated words (from `‘cause` to `’cause`) and decades (from `‘50s` to `’50s`); **individual years will not be corrected** (such as `‘87` to `’87`) and will need to be done manually
+* fixes leading apostrophes for abbreviated words (from `‘cause` to `’cause`) and decades (from `‘50s` to `’50s`) or years (from `‘73` to `’73`)
 * saves the file
 
 ## Caption Cleanup CAPS
@@ -27,7 +27,7 @@ In order:
 * fixes spaces inside italic tags and parentheses (to correct for `<i> this </i>` or `( this )`)
 * corrects capitalization of most first-person singular "I" instances (such as "I", "I'd", "I'll", etc.); **this may not catch all instances**
 * educates quotes (from "straight quotes" to “curly quotes”)
-* fixes leading apostrophes for abbreviated words (from `‘cause` to `’cause`) and decades (from `‘50s` to `’50s`); **individual years will not be corrected** (such as `‘87` to `’87`) and will need to be done manually
+* fixes leading apostrophes for abbreviated words (from `‘cause` to `’cause`) and decades (from `‘50s` to `’50s`) or years (from `‘73` to `’73`)
 * saves the file
 
 ## Abbrev Apostrophe Fix
@@ -36,7 +36,7 @@ Just the abbreviation leading apostrophe fix.
 
 In order:
 * educates quotes (from "straight quotes" to “curly quotes”)
-* fixes leading apostrophes for abbreviated words (from `‘cause` to `’cause`) and decades (from `‘50s` to `’50s`); **individual years will not be corrected** (such as `‘87` to `’87`) and will need to be done manually
+* fixes leading apostrophes for abbreviated words (from `‘cause` to `’cause`) and decades (from `‘50s` to `’50s`) or years (from `‘73` to `’73`)
 
 ## Common OCR Fixes
 
@@ -49,3 +49,4 @@ In order:
   * `ofall` to `of all`
   * `Ijust` to `I just`
   * ` ?` and ` !` to `?` and `!`
+* ...and quite a bit more as I find regular patterns.
