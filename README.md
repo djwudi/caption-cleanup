@@ -2,7 +2,9 @@
 
 Quick and dirty scripts to assist with caption and subtitle cleanup work after the subtitles or captions have been extracted and converted to .srt text files.
 
-These are AppleScript scripts intended to work with BBEdit. I'm not very knowledagble in scripting or github, so don't expect much. I just tossed these together to do what I needed. If they help someone else? Bonus!
+These are AppleScript scripts intended to work with BBEdit. Download and store in your `\Library\Application Support\BBEdit\Scripts\` folder to use from BBEdit's Script menu.
+
+I'm not very knowledagble in scripting or github, so don't expect much. I just tossed these together to do what I needed. If they help someone else? Bonus!
 
 ## Caption Cleanup
 
